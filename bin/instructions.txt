@@ -1,0 +1,24 @@
+ Hamka
+
+This README would normally document whatever steps are necessary to get your application up and running.
+
+ What is Hamka?
+A two-players playing a game in Java. The program produces a desktop window with a Hamka (checkers) board.
+
+What is this repository for? 
+*iteration one For Hamka Game
+
+What was used in this project?
+This project is comprised of primarily Java programming.
+
+ Game Rules
+* Hamka is a board game designed to be played by two players. The objective is to "eat" all the pieces of the other side. 
+* This game is played only on the darker tiles of the board. Normal pieces may only move diagonally forward one space at a time, if a same-side piece is present, 
+   they are not able to move.
+* Pieces may only eat other-side pieces if there is another piece diagonal to them, and the tile behind that piece is open.
+* If the opportunity to eat a piece is present, the player must eat the piece.
+* Normal pieces that reach the other end of the board from their side are crowned Queen. Queens may move diagonally forwards and backwards , and for long distance .
+* Queens can get out from the wall and enter from the other side.
+* The first move is made by the black player side. Good luck and have fun! 
+* There are other additions that will  achieve later during the course. 
+

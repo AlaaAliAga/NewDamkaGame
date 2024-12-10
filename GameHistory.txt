@@ -1,0 +1,15 @@
+magde,3013,70,abo ali,1576,28,magde
+magde,1682,63,hania,1196,16,magde
+abo ali,1515,66,ahmad,2890,77,ahmad
+kamel,3209,55,abo ali,2801,50,kamel
+AHMAD,1584,33,asd,1528,25,AHMAD
+abo ali,1588,70,hania,1888,36,hania
+magde,1136,33,asd,1580,18,asd 
+magde,1585,41,abo ali,2440,70,abo ali
+KNXCBVKXJC,1067,0,sfjkb ,632,50,sfjkb,2021/01/08 14:42:52
+abo Ali,3327,66,ahmad,2341,40,abo Ali,2021/01/08 19:28:10
+ljhnfv,1252,27,sd.fbn,3041,66,ljhnfv,2021/01/08 22:14:17
+hjgvjh,1523,21,lihg,1918,36,hjgvjh
+.ljh,678,0,kjh,741,100,kjh
+ok;jlhb,800,55,ln ,1068,33,ln 
+A,727,33,B,1292,60,B
